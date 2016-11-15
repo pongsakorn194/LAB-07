@@ -56,18 +56,18 @@ Maximum Value :2147483647
 
 คำสั่งสำหรับการทดลอง
 ให้นักศึกษา เขียนโปรแกรมคล้ายกับตัวอย่างที่ 1 โดยมีชนิดข้อมูลเป็น byte, char, bool, sbyte, short, ushort, uint, float, double, decimal, long และ ulong
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo1.1.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo1.2.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo1.3.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo1.4.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo1.5.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo1.6.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo1.7.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo1.8.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo1.9.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo1.10.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo1.11.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo1.12.png?raw=true)
 **หมายเหตุ**
  
 ชนิดข้อมูล ```bool``` เก็บข้อมูลได้เฉพาะ ```true``` และ ```false``` ไม่ต้องหา ```MinValue``` และ ```MaxValue```
@@ -129,6 +129,10 @@ namespace RandomNumber
 1. สร้างตัวแปร boolean โดยเก็บค่าที่ได้จากการเปรียบเทียบตัวเลขในข้อ 1 และ 2
 
 1. ให้พิมพ์ค่าตัวแปร boolean ในข้อ 3 ออกทางหน้าจอ
+
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo2.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo2.1.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo2.2.png?raw=true)
 
 
 ##การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ
@@ -221,6 +225,18 @@ namespace thruthTable
 5. NOR
 6. Exclusive OR
 ```
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo3.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo3.1.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo3.2.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo3.3.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo3.4.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo3.5.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo3.6.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo3.7.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo3.8.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo3.9.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo3.10.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo3.11.png?raw=true)
 
 
 
@@ -263,6 +279,10 @@ public class intergerTest
 9.	y%8
 10.	100*x+y%2-a
 ```
+
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo4.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo4.1.png?raw=true)
+
 ##2.2.3. ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
 ตัวเลขจำนวนทศนิยม มักจะใช้ในการคำนวณทางวิทยาศาสตร์ เนื่องจากค่าในวิทยาศาสตร์ต้องการความละเอียดสูง หรือมีค่าสูงมากกว่าที่เลขจำนวนเต็มจะเก็บได้
 
@@ -311,14 +331,19 @@ SunToEarthTimeOfLight = 8.33333333333333 minutes
 
 ดาวเคราะห์ | ระยะทางจากดวงอาทิตย์ | ระยะทางในหน่วย A.U. | เวลาของแสง (นาที)
 :----:|:----:|:----:|:----: 
-Mercury |	57,910,000 km		
-Venus |	108,200,000 km		
-Earth |	149,600,000 km		
-Mars |	227,940,000 km		
-Jupiter |	778,330,000 km		
-Uranus |	2,873,550,000 km		
-Neptune |	4,501,000,000 km		
-Pluto |	5,945,900,000 km		
+Mercury |	57,910,000 km 	| 0.386920491854452 | 3.22433743212043	
+Venus |	108,200,000 km		|0.722928634409457 | 6.02440528674548
+Earth |	149,600,000 km		|0.999539036115109 | 8.32949196762591
+Mars |	227,940,000 km		|1.5229607479417 | 12.6913395661808
+Jupiter |	778,330,000 km	|5.20034236617295 | 43.3361863847746	
+Uranus |	2,873,550,000 km |19.1993676285332 | 159.994730237777		
+Neptune |	4,501,000,000 km |30.0730294221531 | 250.608578517943		
+Pluto |	5,945,900,000 km  |39.7269996981071 | 331.058330817559
+
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo5.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo5.1.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo5.2.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo5.3.png?raw=true)
 
 ##คลาส Math 
 ในภาษา C# มีคลาสที่เป็นตัวช่วยคำนวณทางคณิตศาสตร์ ที่ช่วยให้เราสามารถคำนวณฟังก์ชันพื้นฐานได้ อย่างรวดเร็ว ไม่ต้องพัฒนาโปรแกรมเพิ่มเติมด้วยเอง นั่นคือคลาส Math  ฟังก์ชันทางคณิตศาสตร์ที่ใช้บ่อยๆ สามารถดูรายละเอียดทั้งหมดได้จาก 
@@ -378,4 +403,9 @@ The sine of       6.00 = -0.279415         *
 2.	y = cos(x)
 3.	y = tan(x)
 ```
-	
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo6.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo6.1.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo6.2.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo6.3.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo6.4.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-07/blob/master/IMG/photo6.5.png?raw=true)	
